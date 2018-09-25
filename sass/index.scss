@@ -84,6 +84,10 @@ ul{
             color:#333;
             outline: none;
             position: relative;
+            appearance:none;
+            -moz-appearance:none;
+            -webkit-appearance:none;
+            background:#fff;
         }
     }
     li:nth-child(1){
